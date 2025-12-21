@@ -3,7 +3,7 @@
 class ApiConfig {
   // Gemini API 키
   // API 키를 얻으려면: https://makersuite.google.com/app/apikey
-  static const String geminiApiKey = 'AIzaSyDtPvaAtNvAkIYNNKxzPxy6lEx10p2WGqk';
+  static const String geminiApiKey = 'YOUR_GEMINI_API_KEY_HERE';
   
   // API 키가 설정되었는지 확인
   static bool get isGeminiApiKeySet => 
