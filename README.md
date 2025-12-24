@@ -13,7 +13,7 @@
 
 ---
 
-## 주요 기능 (Key Features)
+## 주요 기능
 
 ### 1. 과학적인 감정 및 활동 기록
 * **정밀 수치 기록**: 단순 이모지 선택을 넘어 8단계 슬라이더 UI를 통해 감정의 깊이를 세밀하게 기록합니다.
@@ -24,7 +24,7 @@
 * **Emotional Support**: 공감 메시지를 통해 사용자에게 심리적 위안을 제공합니다.
 
 ### 3. 패턴 시각화
-* **Monthly Insight**: 감정 상태를 색상 점(Dot)으로 표현한 캘린더를 통해 한 달의 기분 흐름을 파악합니다.
+* **Monthly Insight**: 감정 상태를 색상 점으로 표현한 캘린더를 통해 한 달의 기분 흐름을 파악합니다.
 * **Weekly Trend**: FLChart를 활용한 라인 차트로 주간 감정 변화 추이를 한눈에 확인합니다 .
 
 ---
@@ -38,7 +38,7 @@
  
 ---
 
-## 실행 화면 (Screenshots)
+## 실행 화면
 **메인 화면**
 
 <img width="329" height="728" alt="image" src="https://github.com/user-attachments/assets/b895c500-8f5b-4540-8640-e34da3a8b553" />
